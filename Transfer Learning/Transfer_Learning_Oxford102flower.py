@@ -1,6 +1,8 @@
 '''
-
-Downloaded from https://www.kaggle.com/c/oxford-102-flower-pytorch/data
+We write this code with the help of PyTorch demo:
+    https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+    
+The dataset is downloaded from https://www.kaggle.com/c/oxford-102-flower-pytorch/data
 
 Effects:
         transforms.Resize((464,464)),
